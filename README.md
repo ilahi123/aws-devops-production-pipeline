@@ -473,7 +473,7 @@ This project is architected for **blue/green deployments** with two target group
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/aws-devops-production-pipeline.git
+git clone https://github.com/ilahi123/aws-devops-production-pipeline.git
 cd aws-devops-production-pipeline
 
 # Install dependencies
